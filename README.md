@@ -6,9 +6,6 @@ I'm a 3rd-year **Computer Engineering** student at **Anjuman-I-Islam's Kalsekar 
 - **Current GPA**: 7.31 (after 4 semesters)
 - **Institution**: Anjuman-I-Islam's Kalsekar Technical Campus
 
-## 💡 Projects:
-- **Edvantage**: A **Learning Management System** developed using **React.js** and **Tailwind CSS**, allowing student and teacher management, assignment uploads, and announcements.
-
 
 ## 🌍 Let's Connect:
 - **Location**: Mumbai, Maharashtra, India
