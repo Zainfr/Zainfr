@@ -1,6 +1,6 @@
-# Hi, I'm Zain Shaikh! 👋
+# Zain Shaikh
 
-I'm a 3rd-year **Computer Engineering** student at **Anjuman-I-Islam's Kalsekar Technical Campus** in Mumbai, India. I have a passion for **frontend development** and **software engineering**. Here's a bit about me and my journey so far:
+I'm a 3rd-year **Computer Engineering** student at **Anjuman-I-Islam's Kalsekar Technical Campus**, India. I have a passion **software engineering**, **web develpoment**.
 
 ## 🎓 Education:
 - **Current GPA**: 7.31 (after 4 semesters)
